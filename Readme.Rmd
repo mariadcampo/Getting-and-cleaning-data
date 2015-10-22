@@ -8,7 +8,7 @@ This file describes how run_analysis.R script works.
 
 * First, unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 * Save "run_analysis.R" in the previous folder and run the script.
-* A "tidy_data.txt" with the with the average of each variable for each activity and each subject is generated.
+* A "Data_tidy.txt" with the with the average of each variable for each activity and each subject is generated.
 
 Detail information about the script calculations
 ------------------------------------------------
